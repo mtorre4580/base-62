@@ -8,7 +8,7 @@ Characters: `0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz`
 
 Is useful when you need to convert a number to a short string characters, is used commonly for URL shorteners like tinyurl
 
-Example the number 11157 is converted to **"z3wBXxG2"**
+Example the number 11157 is converted to **"2TX"**
 
 # Methods
 
